@@ -1,4 +1,4 @@
-# DSP-539 - challenge 1 first line
+# DSP-539 - Challenge 2 first line of GIT exam. 
 
 #this is for git exam
 

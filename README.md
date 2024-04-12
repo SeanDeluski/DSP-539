@@ -1,4 +1,4 @@
-# DSP-539 - Challenge 2 first line of GIT exam -- we had to start challenge 2 again
+# DSP-539 - Challenge 2 reconcile conflict
 
 #this is for git exam
 
